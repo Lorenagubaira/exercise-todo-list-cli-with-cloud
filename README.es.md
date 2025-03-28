@@ -18,7 +18,7 @@ Vamos a usar la [API de TODO de BreatheCode](https://playground.4geeks.com/apis/
 - Inicializar la lista TODO: `[POST] /todos/user/<username>`
 - Actualizar tu lista TODO: `[PUT] /todos/user/<username>`
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 Cómo comenzar este proyecto
 
@@ -60,7 +60,7 @@ $ python src/app.py
 $ python src/test.py
 ```
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instrucciones
 
