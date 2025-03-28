@@ -18,7 +18,7 @@ We are going to be using [BreatheCode Todo's API](https://playground.4geeks.com/
 - Initilize the todo list: `[POST] /todos/user/<username>`  
 - Update your todo list: `[PUT] /todos/user/<username>`  
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 How to start this project
 
@@ -59,7 +59,7 @@ $ python src/app.py
 $ python src/test.py
 ```
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
