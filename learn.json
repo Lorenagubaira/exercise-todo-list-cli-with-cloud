@@ -1,7 +1,13 @@
 {
 	"slug": "todo-list-cli-with-cloud",
-	"title": "Todo List CLI on the Cloud",
-	"description": "Todo List CLI using saving and retrieving the Todo's on the cloud",
+	"title": {
+		"us": "Todo List CLI on the Cloud",
+		"es": "Todo List CLI en la nube"
+	},
+	"description": {
+		"us": "Build a Todo List CLI app that syncs tasks with the cloud using the BreatheCode Todo API. Users can add, update, and delete tasks. Tasks are stored on the cloud, and the app retrieves them from the cloud as well, practicing API communication, Python lists, dictionaries, and HTTP protocols.",
+		"es": "Crea una aplicación CLI de lista de tareas que sincroniza las tareas con la nube utilizando la API de BreatheCode Todo. Los usuarios pueden agregar, actualizar y eliminar tareas. Las tareas se almacenan en la nube y la aplicación las recupera, practicando la comunicación con APIs, listas y diccionarios en Python, y protocolos HTTP."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-todo-list-cli-with-cloud/blob/master/preview.gif?raw=true",
 	"solution": "https://github.com/breatheco-de/exercise-todo-list-cli-with-cloud/tree/solution",
 	"status": "published",
@@ -23,5 +29,8 @@
 		}
 	],
 	"autoPlay": false,
-	"projectType": "project"
+	"projectType": "project",
+	"telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=157"
+    }
 }
